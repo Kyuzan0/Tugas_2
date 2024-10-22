@@ -1,4 +1,4 @@
 # Tugas_2
-Tugas Digital Entrepreneurship
+Tugas Mata Kuliah Digital Entrepreneurship
 
 ## JackFruit
